@@ -1,0 +1,28 @@
+2026-11-26 18:12:39: Posting berhasil dibuat!
+2026-11-26 18:12:39: status_code - 200
+2026-11-26 18:17:20: Posting berhasil dibuat!
+2026-11-26 18:17:20: status_code - 200
+2026-11-26 18:17:46: Posting berhasil dibuat!
+2026-11-26 18:17:46: status_code - 200
+2026-11-26 18:18:36: Posting berhasil dibuat!
+2026-11-26 18:18:36: status_code - 200
+2026-11-26 18:19:37: Posting berhasil dibuat!
+2026-11-26 18:19:37: status_code - 200
+2026-11-26 18:22:25: Posting berhasil dibuat!
+2026-11-26 18:22:25: status_code - 200
+2026-11-26 18:22:49: Posting image berhasil!
+2026-11-26 18:22:49: status_code - 200
+2026-11-26 22:44:39: Posting berhasil!
+2026-11-26 22:44:39: status_code - 200
+2026-11-26 22:57:01: Post teks starting...
+2026-11-26 22:57:07: Post image starting...
+2026-11-26 22:57:13: Invalid type formatter upload
+2026-11-26 22:58:06: Invalid type formatter
+2026-11-26 22:58:10: Post image starting...
+2026-11-26 23:08:42: Invalid type formatter
+2026-11-26 23:08:50: Post text starting...
+2026-11-26 23:08:53: Posting berhasil!
+2026-11-26 23:13:42: Invalid type formatter.
+formatter: (text/image)
+2026-11-26 23:14:33: Invalid type formatter. --type (text/image)
+2026-11-26 23:15:07: Invalid type formatter (text/image)
