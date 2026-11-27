@@ -54,6 +54,7 @@ def post_image(PAGE_ID, PAGE_ACCESS_TOKEN, message):
 	except Exception as e:
         	log_progress(f"Posting failed. ERROR: {e}")
 
+
 type = args.type.lower()
 
 if type == "text":
