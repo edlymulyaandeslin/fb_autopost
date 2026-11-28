@@ -13,7 +13,7 @@ class IdeaSchema(BaseModel):
 	no: int
 	topic: str
 
-def req_to_gemini(prompt):
+def idea_from_gemini(prompt):
 	client = genai.Client(api_key=GEMINI_API_KEY)
 
 	response = client.models.generate_content(
@@ -26,9 +26,6 @@ def req_to_gemini(prompt):
 	)
 
 	data = json.loads(response.text)
-	print(data)
+
 	return data
 
-prompt = "You are the script-writing idea content psychology for a channel that turns questions people think are simple, obvious, or already-settled into videos that make viewers stop scrolling, watch to the end, and argue in the comments. You give me 30 ideas content psycology with with format table no, topic. and at the last response you confirm to me if i want 10 more content just wring more"
-
-req_to_gemini(prompt)
